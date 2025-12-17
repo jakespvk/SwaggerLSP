@@ -1,4 +1,6 @@
-﻿namespace SwaggerLSP.Tests;
+﻿using NUnit.Framework;
+
+namespace SwaggerLSP.Tests;
 
 public class Tests
 {
