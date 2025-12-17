@@ -1,4 +1,4 @@
-﻿using NUnit.Framework;
+﻿using System;
 
 namespace SwaggerLSP.Tests;
 
@@ -7,6 +7,7 @@ public class Tests
     [SetUp]
     public void Setup()
     {
+        Console.WriteLine("setup test");
     }
 
     [Test]
