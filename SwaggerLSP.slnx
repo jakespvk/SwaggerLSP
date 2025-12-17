@@ -1,2 +1,9 @@
 <Solution>
+    <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="src/SwaggerLSP/SwaggerLSP.csproj" />
+  <Project Path="src/SwaggerLSP.Tests/SwaggerLSP.Tests.csproj" />
 </Solution>
